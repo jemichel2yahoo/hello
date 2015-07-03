@@ -3,7 +3,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jemichel.hello</groupId>
   <artifactId>hello</artifactId>
-  <packaging>jar</packaging>
   <version>1.1-SNAPSHOT</version>
   <name>hello</name>
   <url>http://maven.apache.org</url>
